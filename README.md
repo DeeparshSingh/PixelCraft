@@ -26,7 +26,7 @@ This project implements a Genetic Algorithm (GA) to generate pixel art based on 
 
 To run this project, you need:
 
-- Python 3.x
+- Python 3
 - NumPy
 - Matplotlib
 - Scikit-Image
